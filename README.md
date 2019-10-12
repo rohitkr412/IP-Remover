@@ -1,5 +1,8 @@
-I deal with a lot of log files that contain IP addresses at work.
-IP addresses are considered sensitive information at my organization and it's compulsory to remove all IP addresses before retrieving them from the server.
-It's boring to open them one-by-one in Notepad and do a 'Find-Replace' everytime.
+# IP Remover
 
-So, I'm making a tool that can remove all IP addresses at the click of a button. 
+- IP addresses are considered to be sensitive information in many organizations.
+- It is compulsory to mask IP addresses in log files before retrieving them from the server at my work place.
+- Opening log files one-by-one in Notepad and doing a 'Find-Replace' everytime is very repetitive.
+
+IP Remover can mask all IP addresses. For Eg.
+### 192.168.0.1 will be masked to x.x.x.x
