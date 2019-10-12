@@ -1,0 +1,7 @@
+c:\users\rohit\source\repos\IPRemover\IPRemover\bin\Debug\IPRemover.exe.config
+c:\users\rohit\source\repos\IPRemover\IPRemover\bin\Debug\IPRemover.exe
+c:\users\rohit\source\repos\IPRemover\IPRemover\bin\Debug\IPRemover.pdb
+c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.csprojResolveAssemblyReference.cache
+c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.csproj.CoreCompileInputs.cache
+c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.exe
+c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.pdb
