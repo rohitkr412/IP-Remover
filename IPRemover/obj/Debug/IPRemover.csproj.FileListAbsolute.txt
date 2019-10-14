@@ -5,3 +5,10 @@ c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.csprojResolv
 c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.csproj.CoreCompileInputs.cache
 c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.exe
 c:\users\rohit\source\repos\IPRemover\IPRemover\obj\Debug\IPRemover.pdb
+C:\Users\Rohit\Documents\GitHub\IPRemover\IPRemover\bin\Debug\IPRemover.exe.config
+C:\Users\Rohit\Documents\GitHub\IPRemover\IPRemover\bin\Debug\IPRemover.exe
+C:\Users\Rohit\Documents\GitHub\IPRemover\IPRemover\bin\Debug\IPRemover.pdb
+C:\Users\Rohit\Documents\GitHub\IPRemover\IPRemover\obj\Debug\IPRemover.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\Documents\GitHub\IPRemover\IPRemover\obj\Debug\IPRemover.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\Documents\GitHub\IPRemover\IPRemover\obj\Debug\IPRemover.exe
+C:\Users\Rohit\Documents\GitHub\IPRemover\IPRemover\obj\Debug\IPRemover.pdb
