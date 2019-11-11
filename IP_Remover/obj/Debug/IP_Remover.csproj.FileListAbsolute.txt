@@ -1,0 +1,7 @@
+C:\Users\Rohit\source\repos\IP_Remover\IP_Remover\bin\Debug\IP_Remover.exe.config
+C:\Users\Rohit\source\repos\IP_Remover\IP_Remover\bin\Debug\IP_Remover.exe
+C:\Users\Rohit\source\repos\IP_Remover\IP_Remover\bin\Debug\IP_Remover.pdb
+C:\Users\Rohit\source\repos\IP_Remover\IP_Remover\obj\Debug\IP_Remover.csprojResolveAssemblyReference.cache
+C:\Users\Rohit\source\repos\IP_Remover\IP_Remover\obj\Debug\IP_Remover.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\IP_Remover\IP_Remover\obj\Debug\IP_Remover.exe
+C:\Users\Rohit\source\repos\IP_Remover\IP_Remover\obj\Debug\IP_Remover.pdb
